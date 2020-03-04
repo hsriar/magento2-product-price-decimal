@@ -1,6 +1,6 @@
 
 ### Introduction
-The **«Hs Riar Product Price Decimal»** extension allows you to change or delete the decimal number (precision) in a price, that is displayed in the front end of your store. The extentension supports multi store and multi website configuration and can be useful in managing multiwebsites / multisore shops. 
+The **«Product Price Decimal»** extension allows you to change or delete the decimal number (precision) in a price, that is displayed in the front end of your store. The extentension supports multi store and multi website configuration and can be useful in managing multiwebsites / multisore shops. 
 
 ### Features
 - Free and open source and fully configurable extension;

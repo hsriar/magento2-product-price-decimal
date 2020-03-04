@@ -1,0 +1,32 @@
+{
+    "name": "HsRiar/magento2-price-decimal",
+    "description": "Magento 2 Custom Price Decimal Extension for product price by Hs Riar",
+    "keywords": [
+        "magento2"
+    ],
+    "license": "Apache-2.0",
+    "type": "magento2-module",
+    "version": "1.0.6",
+    "authors": [
+        {
+            "name": "Harjeetsingh Riar",
+            "email": "hsriar.work@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": ""
+    },
+    "require": {
+        "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1",
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "HsRiar\\PriceDecimal\\": ""
+        }
+    }
+}
